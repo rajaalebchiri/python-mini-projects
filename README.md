@@ -1,1 +1,1 @@
-python3 mini projects
+python mini projects
